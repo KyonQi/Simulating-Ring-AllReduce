@@ -1,5 +1,4 @@
 **English | 简体中文**
-#Ring AllReduce
 
 ## Introduction
 These codes are the experiments to **<font color=Blue>simulate Ring AllReduce algorithm</font>** in *Single* GPU by Pytorch.
