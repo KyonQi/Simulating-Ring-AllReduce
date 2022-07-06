@@ -1,4 +1,4 @@
-**English | 简体中文**
+**English**
 
 ## Introduction
 These codes are the experiments to **<font color=Blue>simulate the attack on Ring AllReduce algorithm</font>** in *Single* GPU by Pytorch.
